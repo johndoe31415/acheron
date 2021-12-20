@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="477.05396"
+   height="404.76727"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/joe/Studium/Semester09/SNS2/trunk_remote/vortrag/figs"
+   sodipodi:docname="S_RuleMatching.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="166.61814"
+     inkscape:cy="198.85905"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="694"
+     inkscape:window-x="0"
+     inkscape:window-y="26" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.1721,-23.24558)">
+    <g
+       id="g3766"
+       transform="translate(0,-0.16573)">
+      <rect
+         y="23.411314"
+         x="33.172096"
+         height="240.84558"
+         width="223.52698"
+         id="rect1872"
+         style="fill:#9ccbf1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="23.411314"
+         x="33.172096"
+         height="41.080696"
+         width="223.52698"
+         id="rect5421"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="223.17619"
+         x="33.172096"
+         height="41.080696"
+         width="223.52698"
+         id="rect7241"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <text
+         id="text5417"
+         y="53.775112"
+         x="40.153465"
+         style="font-size:32px;font-style:normal;font-weight:bold;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="53.775112"
+           x="40.153465"
+           id="tspan5419"
+           sodipodi:role="line">Rule</tspan></text>
+      <text
+         id="text5427"
+         y="89.147491"
+         x="52.241463"
+         style="font-size:24px;font-style:normal;font-weight:normal;fill:#004f00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="89.147491"
+           x="52.241463"
+           id="tspan5429"
+           sodipodi:role="line">user</tspan><tspan
+           id="tspan5431"
+           y="119.14749"
+           x="52.241463"
+           sodipodi:role="line">group</tspan><tspan
+           id="tspan5433"
+           y="149.14749"
+           x="52.241463"
+           sodipodi:role="line">application</tspan><tspan
+           id="tspan5435"
+           y="179.14749"
+           x="52.241463"
+           sodipodi:role="line">time</tspan><tspan
+           id="tspan5437"
+           y="209.14749"
+           x="52.241463"
+           sodipodi:role="line">process id</tspan></text>
+      <text
+         id="text6350"
+         y="251.81807"
+         x="44.869476"
+         style="font-size:28px;font-style:normal;font-weight:bold;fill:#ff5e00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="251.81807"
+           x="44.869476"
+           id="tspan6352"
+           sodipodi:role="line">policy</tspan></text>
+    </g>
+    <g
+       id="g2229"
+       transform="matrix(1.1220171,0,0,1,-34.982195,0)">
+      <rect
+         y="23.245584"
+         x="286.69907"
+         height="179.73135"
+         width="223.52698"
+         id="rect3726"
+         style="fill:#9ccbf1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="23.245584"
+         x="286.69907"
+         height="41.080696"
+         width="223.52698"
+         id="rect3728"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="163.01045"
+         x="286.69907"
+         height="41.080696"
+         width="223.52698"
+         id="rect3730"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="293.59769"
+       y="51.165909"
+       id="text8148"><tspan
+         sodipodi:role="line"
+         id="tspan8150"
+         x="293.59769"
+         y="51.165909">Rule_IP / Rule_IP6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#004f00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="305.6857"
+       y="88.538315"
+       id="text8152"><tspan
+         sodipodi:role="line"
+         x="305.6857"
+         y="88.538315"
+         id="tspan8162">destination</tspan><tspan
+         sodipodi:role="line"
+         x="305.6857"
+         y="118.53831"
+         id="tspan8182">destination port</tspan><tspan
+         sodipodi:role="line"
+         x="305.6857"
+         y="148.53831"
+         id="tspan8184">protocol (implicit)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;fill:#ff5e00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="298.31372"
+       y="191.20888"
+       id="text8164"><tspan
+         sodipodi:role="line"
+         id="tspan8166"
+         x="298.31372"
+         y="191.20888">policy</tspan></text>
+    <g
+       id="g2224"
+       transform="matrix(1.1220171,0,0,1,-34.982195,0)">
+      <rect
+         y="279.09116"
+         x="286.69907"
+         height="117.10189"
+         width="223.52698"
+         id="rect3750"
+         style="fill:#9ccbf1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="279.09116"
+         x="286.69907"
+         height="41.080696"
+         width="223.52698"
+         id="rect3752"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="356.85602"
+         x="286.69907"
+         height="41.080696"
+         width="223.52698"
+         id="rect3754"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="293.59769"
+       y="306.02197"
+       id="text8204"><tspan
+         sodipodi:role="line"
+         id="tspan8206"
+         x="293.59769"
+         y="306.02197"
+         style="font-size:16px">Rule_TCP(6) / Rule_UDP(6)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#004f00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="305.6857"
+       y="343.39441"
+       id="text8208"><tspan
+         sodipodi:role="line"
+         x="305.6857"
+         y="343.39441"
+         id="tspan8214">protocol (implicit)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;fill:#ff5e00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="298.31372"
+       y="386.06494"
+       id="text8216"><tspan
+         sodipodi:role="line"
+         id="tspan8218"
+         x="298.31372"
+         y="386.06494">policy</tspan></text>
+    <g
+       id="g3805"
+       transform="translate(-0.363426,-15.38036)">
+      <rect
+         y="294.47153"
+         x="33.535522"
+         height="148.92169"
+         width="223.52698"
+         id="rect3733"
+         style="fill:#9ccbf1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="294.47153"
+         x="33.535522"
+         height="41.080696"
+         width="223.52698"
+         id="rect3735"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="402.23639"
+         x="33.535522"
+         height="41.080696"
+         width="223.52698"
+         id="rect3737"
+         style="fill:#559bef;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <text
+         id="text8248"
+         y="321.68655"
+         x="40.153404"
+         style="font-size:22px;font-style:normal;font-weight:bold;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="321.68655"
+           x="40.153404"
+           id="tspan8250"
+           sodipodi:role="line">Netlink</tspan></text>
+      <text
+         id="text8252"
+         y="359.05893"
+         x="52.241417"
+         style="font-size:24px;font-style:normal;font-weight:normal;fill:#004f00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan8258"
+           y="359.05893"
+           x="52.241417"
+           sodipodi:role="line">netlink pid</tspan><tspan
+           id="tspan8269"
+           y="389.05893"
+           x="52.241417"
+           sodipodi:role="line">netlink group</tspan></text>
+      <text
+         id="text8260"
+         y="429.72952"
+         x="44.869438"
+         style="font-size:28px;font-style:normal;font-weight:bold;fill:#ff5e00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="429.72952"
+           x="44.869438"
+           id="tspan8262"
+           sodipodi:role="line">policy</tspan></text>
+    </g>
+  </g>
+</svg>

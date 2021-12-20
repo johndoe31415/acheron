@@ -1,0 +1,13 @@
+#!/bin/sh
+#
+#
+
+if [ ! -d patchtree/ ]; then
+	echo "Must stand in kernel/ directory."
+	exit 1
+fi
+
+cp patchtree/Kconfig /usr/src/linux/security
+cp patchtree/Makefile /usr/src/linux/security
+mkdir /usr/src/linux/security/acheron/ >/dev/null 2>&1
+cp *.c *.h Makefile /usr/src/linux/security/acheron/
