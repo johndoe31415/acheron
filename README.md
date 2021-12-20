@@ -1,10 +1,12 @@
 # acheron
 This is a project purely archived for historical purposes: acheron is a
 user-space firewall for Linux which my awesome friend Severin Strobl
-(@severinstobl) and I hacked for a university project ("Blockpraktikum System-
-und Netzwerksicherheit 2", i.e., Systems- and Network Security) in a week. It
-was challening and fun and we decided to push it to Github to remember the good
-memories of kernel oooopses and cursing.
+(@severinstrobl) and I hacked for a university project
+(["Blockpraktikum System-und Netzwerksicherheit 2"](https://www4.cs.fau.de/Lehre/WS07/PR_SNS/),
+i.e., Systems- and Network Security) in a week. It was challening and fun and
+we decided to push it to Github to remember the good memories of kernel
+oooopses and cursing. We did this when we were in 9th semester of computer
+science at University of Erlangen.
 
 It has a kernel portion which sends connection requests to userspace for
 userspace to determine what it should do with it. If I'm not entirely mistaken
