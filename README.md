@@ -13,7 +13,7 @@ this is similar to how applications like apparmor work, too.
 Don't expect this to compile. Absoutely do not expect it to work.
 
 There's a
-[presentation](https://github.com/johndoe31415/acheron/master/vortrag/Vortrag.pdf)
+[presentation](https://github.com/johndoe31415/acheron/raw/master/vortrag/Vortrag.pdf)
 we did for the project as well.
 
 ## Naming
